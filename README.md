@@ -60,5 +60,5 @@ Open directly on Google Colab:
 
 **Aditi Sikarwar**
 📍 Electronics and Computer Engineering Student
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/aditi-sikarwar)
+🔗 [LinkedIn](https://www.linkedin.com/in/aditi-sikarwar/) | [GitHub](https://github.com/aditii010)
 
